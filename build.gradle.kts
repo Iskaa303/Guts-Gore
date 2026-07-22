@@ -7,10 +7,10 @@ plugins {
 
 // ── Mod metadata ───────────────────────────────────────────────────────────────
 
-val modId: String = "examplemod"
+val modId: String = "guts_gore"
 val modVersion: String = System.getenv("VERSION") ?: "0.0.0-indev"
-val modName: String = "Example Mod"
-val modGroupId: String = "com.example.examplemod"
+val modName: String = "Guts & Gore"
+val modGroupId: String = "net.iskaa303.guts_gore"
 
 val minecraftVersion: String = "1.21.1"
 val neoforgeVersion: String = "21.1.234"

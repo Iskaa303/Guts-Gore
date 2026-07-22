@@ -1,0 +1,27 @@
+{
+  "limb.guts_gore.head": "Head",
+  "limb.guts_gore.neck": "Neck",
+  "limb.guts_gore.torso": "Torso",
+  "limb.guts_gore.arm": "Arm",
+  "limb.guts_gore.hand": "Hand",
+  "limb.guts_gore.leg": "Leg",
+  "limb.guts_gore.foot": "Foot",
+  "limb.guts_gore.tail": "Tail",
+  "limb.guts_gore.wing": "Wing",
+  "limb.guts_gore.fin": "Fin",
+  "limb.guts_gore.tentacle": "Tentacle",
+  "limb.guts_gore.horn": "Horn",
+  "limb.guts_gore.snout": "Snout",
+  "limb.guts_gore.shell": "Shell",
+
+  "guts_gore.limb.region.cranial": "Cranial",
+  "guts_gore.limb.region.cervical": "Cervical",
+  "guts_gore.limb.region.thoracic": "Thoracic",
+  "guts_gore.limb.region.forelimb": "Forelimb",
+  "guts_gore.limb.region.hindlimb": "Hindlimb",
+  "guts_gore.limb.region.posterior": "Posterior",
+  "guts_gore.limb.region.dorsal": "Dorsal",
+  "guts_gore.limb.region.lateral": "Lateral",
+  "guts_gore.limb.region.facial": "Facial",
+  "guts_gore.limb.region.cephalic": "Cephalic"
+}

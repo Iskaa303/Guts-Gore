@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
 license = "GPLv3.0"
-issueTrackerURL = "https://github.com/BetterThanGreg-Team/ModTemplate/issues"
+issueTrackerURL = "https://github.com/Iskaa303/Guts-Gore/issues"
 
 [[mods]]
     modId = "${modId}"
@@ -9,7 +9,7 @@ issueTrackerURL = "https://github.com/BetterThanGreg-Team/ModTemplate/issues"
     displayName = "${modName}"
     credits = "By Iskaa303, and many others."
     authors = "Iskaa303"
-    description = '''Example description'''
+    description = '''A modular limb system for living entities.'''
 
 [[dependencies.${modId}]]
     modId = "neoforge"
