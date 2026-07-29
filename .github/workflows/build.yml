@@ -136,7 +136,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: '[📁] Setup Java'
-        uses: actions/setup-java@v5.4.0
+        uses: actions/setup-java@v5.6.0
         with:
           distribution: temurin
           java-version: ${{ needs.info.outputs.java_version }}
@@ -181,7 +181,7 @@ jobs:
           ls -1 *.jar
 
       - name: '[🚀] Release to Modrinth, CurseForge & GitHub'
-        uses: Xikaro/game-publish@3.3.3
+        uses: Xikaro/game-publish@3.4.0
         with:
           modrinth-id: ${{ vars.MODRINTH_ID }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
